@@ -4,6 +4,10 @@
 1. Introduction
 2. Inspiration behind the product
 3. Solution
+4.  Major Challenge and how we over came it
+5.  Future Plans
+6.   Website
+7.   Team
 
 ### 1. Introduction
 
@@ -34,7 +38,11 @@ The current version of our product was built and tested on Intel Dev Cloud but w
 
 Also, we are testing the possibility of replacing the Convolutional Neural Network in our solution with a Capsule Network as we think it is better suited for our application.We are also moving to a tensorflow based implementation instead of our current PyTorch based models as it becomes much easy to deploy the models on edge and android devices.  Two members of our team are currently studying the model’s performance on the NVIDIA GPU vs the Google’s TPU and based on this result in the near future we would finalize an accelerator for our application. Apart from this we are currently designing a solution to run the model locally instead of a cloud platform to reduce recurring costs and are evaluating google corel for the same. 
 
-### 6. Team
+### 6. Website
+
+https://prakarsha01.github.io/ <br>
+
+### 7. Team
 
 #### 1. Srimanth Tenneti
 ![Screenshot](imgs/me2.jpg)<br>
