@@ -37,30 +37,30 @@ Also, we are testing the possibility of replacing the Convolutional Neural Netwo
 ### 6. Team
 
 #### 1. Srimanth Tenneti
-LinkedIn: https://www.linkedin.com/in/srimanth-tenneti-662b7117b/
-Email Id: srimanthtenneti@gmail.com
+LinkedIn: https://www.linkedin.com/in/srimanth-tenneti-662b7117b/ <br>
+Email Id: srimanthtenneti@gmail.com<br>
 Roles: 
 1) Machine Learning and Deep Learning Core designer
 2) Embedded hardware designer
 
 #### 2. Cherukupally Krithika Reddy
-LinkedIn: https://www.linkedin.com/in/krithika-reddy-8892461ba/
-Email Id: krithikareddy001@gmail.com
+LinkedIn: https://www.linkedin.com/in/krithika-reddy-8892461ba/<br>
+Email Id: krithikareddy001@gmail.com<br>
 Roles:
 1. Web Developer
 2. Product Designer
 
 
 #### 3. Kalimera Shashi Varun 
-LinkedIn: https://www.linkedin.com/in/shashi-varun-90a836203/
-Email Id: shashi.varun435@gmail.com
+LinkedIn: https://www.linkedin.com/in/shashi-varun-90a836203/<br>
+Email Id: shashi.varun435@gmail.com<br>
 Roles:
 1. Product designer
 2. Embedded driver developer
 
 
-#### 4. Kandukuri Ratna Prakarsha
-LinkedIn: https://www.linkedin.com/in/ratna-prakarsha-kandukuri-ba7b301a5/
+#### 4. Kandukuri Ratna Prakarsha<br>
+LinkedIn: https://www.linkedin.com/in/ratna-prakarsha-kandukuri-ba7b301a5/<br>
 Email Id: prakarsha2000@gmail.com
 Roles:
 1. User experience designer
