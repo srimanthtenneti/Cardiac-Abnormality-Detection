@@ -45,6 +45,7 @@ Roles:
 2) Embedded hardware designer
 
 #### 2. Cherukupally Krithika Reddy
+![Screenshot](imgs/krithika_final.jpg)<br>
 LinkedIn: https://www.linkedin.com/in/krithika-reddy-8892461ba/<br>
 Email Id: krithikareddy001@gmail.com<br>
 Roles:
