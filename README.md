@@ -37,7 +37,7 @@ Also, we are testing the possibility of replacing the Convolutional Neural Netwo
 ### 6. Team
 
 #### 1. Srimanth Tenneti
-![Screenshot](imgs/me2.jpg)
+![Screenshot](imgs/me2.jpg)<br>
 LinkedIn: https://www.linkedin.com/in/srimanth-tenneti-662b7117b/ <br>
 Email Id: srimanthtenneti@gmail.com<br>
 Roles: 
@@ -53,6 +53,7 @@ Roles:
 
 
 #### 3. Kalimera Shashi Varun 
+![Screenshot](imgs/varun.jpg)<br>
 LinkedIn: https://www.linkedin.com/in/shashi-varun-90a836203/<br>
 Email Id: shashi.varun435@gmail.com<br>
 Roles:
@@ -60,9 +61,10 @@ Roles:
 2. Embedded driver developer
 
 
-#### 4. Kandukuri Ratna Prakarsha<br>
+#### 4. Kandukuri Ratna Prakarsha
+![Screenshot](imgs/prakarsha.jpg)
 LinkedIn: https://www.linkedin.com/in/ratna-prakarsha-kandukuri-ba7b301a5/<br>
-Email Id: prakarsha2000@gmail.com
+Email Id: prakarsha2000@gmail.com<br>
 Roles:
 1. User experience designer
 2. Web developer
