@@ -23,13 +23,8 @@ Also, a recent addition to our hospital end software is a CT , X-ray classifier 
 
 The second front where our product finds its application is with the common man. We would make a version of this available for the public where the user would be able to find out his or her serum cholesterol and other elementary body parameters using this device. Also, as this has an integrated ECG this device would also help in monitoring cardiac abnormalities which are very common these days. 
 
-### 4. Future Plans
 
-The current version of our product was built and tested on Intel Dev Cloud but we plan to migrate our solution to the Google Cloud Platform. This would help us scale up much better.  Due to the COVID-19 lockdown and the increased taxes in Indian customs we were not able to get our hardware designs fabricated and have a raw prototype. In the very near future we plan on fabricating our PCB designs and testing our hardware. 
-
-Also, we are testing the possibility of replacing the Convolutional Neural Network in our solution with a Capsule Network as we think it is better suited for our application.We are also moving to a tensorflow based implementation instead of our current PyTorch based models as it becomes much easy to deploy the models on edge and android devices.  Two members of our team are currently studying the model’s performance on the NVIDIA GPU vs the Google’s TPU and based on this result in the near future we would finalize an accelerator for our application. Apart from this we are currently designing a solution to run the model locally instead of a cloud platform to reduce recurring costs and are evaluating google corel for the same. 
-
-### Major Challenge and how we over came it
+### 4. Major Challenge and how we over came it
 
 The major challenge we faced was improving the performance of the Convolutional Neural Network. Initially we tried transfer learning but the model was not reaching our target accuracy of > 97%. So, we decided to write our own network and we were not able to reach our target accuracy as the data had white noise in it and some of the images had some rotation. 
 
@@ -37,5 +32,8 @@ The major challenge we faced was improving the performance of the Convolutional 
 
 
 
+### 5. Future Plans
 
+The current version of our product was built and tested on Intel Dev Cloud but we plan to migrate our solution to the Google Cloud Platform. This would help us scale up much better.  Due to the COVID-19 lockdown and the increased taxes in Indian customs we were not able to get our hardware designs fabricated and have a raw prototype. In the very near future we plan on fabricating our PCB designs and testing our hardware. 
 
+Also, we are testing the possibility of replacing the Convolutional Neural Network in our solution with a Capsule Network as we think it is better suited for our application.We are also moving to a tensorflow based implementation instead of our current PyTorch based models as it becomes much easy to deploy the models on edge and android devices.  Two members of our team are currently studying the model’s performance on the NVIDIA GPU vs the Google’s TPU and based on this result in the near future we would finalize an accelerator for our application. Apart from this we are currently designing a solution to run the model locally instead of a cloud platform to reduce recurring costs and are evaluating google corel for the same. 
