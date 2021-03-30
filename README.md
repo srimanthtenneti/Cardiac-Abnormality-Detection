@@ -62,7 +62,7 @@ Roles:
 
 
 #### 4. Kandukuri Ratna Prakarsha
-![Screenshot](imgs/prakarsha.jpg)
+![Screenshot](imgs/parkarsha.jpg)
 LinkedIn: https://www.linkedin.com/in/ratna-prakarsha-kandukuri-ba7b301a5/<br>
 Email Id: prakarsha2000@gmail.com<br>
 Roles:
