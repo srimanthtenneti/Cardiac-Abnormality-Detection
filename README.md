@@ -37,7 +37,7 @@ Also, we are testing the possibility of replacing the Convolutional Neural Netwo
 ### 6. Team
 
 #### 1. Srimanth Tenneti
-![Screenshot](imgs/me2.png)
+![Screenshot](imgs/me2.jpg)
 LinkedIn: https://www.linkedin.com/in/srimanth-tenneti-662b7117b/ <br>
 Email Id: srimanthtenneti@gmail.com<br>
 Roles: 
