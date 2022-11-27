@@ -38,45 +38,10 @@ The current version of our product was built and tested on Intel Dev Cloud but w
 
 Also, we are testing the possibility of replacing the Convolutional Neural Network in our solution with a Capsule Network as we think it is better suited for our application.We are also moving to a tensorflow based implementation instead of our current PyTorch based models as it becomes much easy to deploy the models on edge and android devices.  Two members of our team are currently studying the model’s performance on the NVIDIA GPU vs the Google’s TPU and based on this result in the near future we would finalize an accelerator for our application. Apart from this we are currently designing a solution to run the model locally instead of a cloud platform to reduce recurring costs and are evaluating google corel for the same. 
 
-### 6. Website
-
-https://prakarsha01.github.io/ <br>
-
-### 7. Team
+### Team
 
 #### 1. Srimanth Tenneti
 ![Screenshot](imgs/me2.jpg)<br>
 LinkedIn: https://www.linkedin.com/in/srimanth-tenneti-662b7117b/ <br>
 Email Id: srimanthtenneti@gmail.com<br>
-Roles: 
-1) Machine Learning and Deep Learning Core designer
-2) Embedded hardware designer
-
-#### 2. Cherukupally Krithika Reddy
-![Screenshot](imgs/krithika_final.jpg)<br>
-LinkedIn: https://www.linkedin.com/in/krithika-reddy-8892461ba/<br>
-Email Id: krithikareddy001@gmail.com<br>
-Roles:
-1. Web Developer
-2. Product Designer
-
-
-#### 3. Kalimera Shashi Varun 
-![Screenshot](imgs/varun.jpg)<br>
-LinkedIn: https://www.linkedin.com/in/shashi-varun-90a836203/<br>
-Email Id: shashi.varun435@gmail.com<br>
-Roles:
-1. Product designer
-2. Embedded driver developer
-
-
-#### 4. Kandukuri Ratna Prakarsha
-![Screenshot](imgs/parkarsha.jpg)<br>
-LinkedIn: https://www.linkedin.com/in/ratna-prakarsha-kandukuri-ba7b301a5/<br>
-Email Id: prakarsha2000@gmail.com<br>
-Roles:
-1. User experience designer
-2. Web developer
-
-
 
